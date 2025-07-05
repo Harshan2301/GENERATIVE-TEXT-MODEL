@@ -1,13 +1,3 @@
 # GENERATIVE-TEXT-MODEL
-
-*COMPANY*: CODTECH IT SOLUTIONS
-
 *NAME*: Harshan Kumar Mulagundla
-
-*INTERN ID*: CT04DN123
-
 *DOMAIN*: Artificial Intelligence
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
